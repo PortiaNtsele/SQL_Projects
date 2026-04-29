@@ -73,11 +73,4 @@ This portfolio is part of my journey to becoming a Data Analyst. I am continuous
 
 ---
 
-## 📬 Contact
-
-* LinkedIn: *(Add your link here)*
-* GitHub: *(Your profile link)*
-
----
-
 ⭐ Feel free to explore the projects and follow my progress!

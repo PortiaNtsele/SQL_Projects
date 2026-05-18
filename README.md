@@ -47,7 +47,7 @@ project_name/
 
 | Project Name    | Description                                                                           | Tools        |
 | --------------- | ------------------------------------------------------------------------------------- | ------------ |
-| *(Coming Soon)* | Sales analysis using a public dataset to uncover revenue trends and customer insights | SQL, Tableau |
+| Pizza_sales     | Sales analysis using a public dataset to uncover revenue trends and customer insights | SQL, Tableau |
 
 ---
 

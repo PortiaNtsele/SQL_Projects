@@ -34,12 +34,11 @@ Some projects also include Tableau dashboards to enhance visual storytelling and
 
 Each project follows a consistent structure:
 
-project_name/
-│
-├── queries.sql # SQL scripts used for analysis
-├── dataset_link.txt # Source of dataset
-├── dashboard.png # Tableau dashboard screenshot (if available)
-└── README.md # Project documentation and insights 
+project_name/ │
+├── queries.sql # SQL queries used for analysis
+├── dataset_link.txt # Source of the dataset 
+├── dashboard.png # Tableau dashboard screenshot 
+└── README.md # Project explanation and insights
 
 
 ---

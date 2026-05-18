@@ -1,30 +1,32 @@
 # 📊 SQL Projects Portfolio
 
-Welcome to my SQL portfolio! This repository showcases my ability to analyze real-world datasets using SQL (Google BigQuery) and communicate insights through data visualization.
+Welcome to my SQL portfolio. This repository showcases my ability to analyze real-world datasets using SQL (Google BigQuery) and communicate insights through data-driven storytelling and visualization.
 
 ---
 
 ## 🔍 About This Repository
 
-This repository contains a collection of SQL-based data analysis projects focused on solving real business problems.
+This portfolio contains a collection of SQL-based data analysis projects focused on solving real business problems.
 
 Each project demonstrates:
 
-* Data cleaning and transformation
-* Joins and aggregations
-* Common Table Expressions (CTEs)
-* Window functions
-* Analytical thinking and problem-solving
+- Data exploration and schema understanding  
+- Data cleaning and transformation  
+- Joins and aggregations  
+- Common Table Expressions (CTEs)  
+- Window functions  
+- Analytical thinking and insight generation  
+- Business storytelling using data  
 
-To enhance storytelling, insights are presented using Tableau dashboards.
+Some projects also include Tableau dashboards to enhance visual storytelling and decision-making.
 
 ---
 
 ## 🛠️ Tools & Technologies
 
-* SQL (Google BigQuery)
-* Tableau (Data Visualization)
-* Public datasets
+- SQL (Google BigQuery)  
+- Tableau (Data Visualization)  
+- Public datasets  
 
 ---
 
@@ -32,44 +34,63 @@ To enhance storytelling, insights are presented using Tableau dashboards.
 
 Each project follows a consistent structure:
 
-```
 project_name/
 │
-├── queries.sql          # SQL queries used for analysis
-├── dataset_link.txt     # Source of the dataset
-├── dashboard.png        # Tableau dashboard screenshot
-└── README.md            # Project explanation and insights
-```
+├── queries.sql # SQL scripts used for analysis
+├── dataset_link.txt # Source of dataset
+├── dashboard.png # Tableau dashboard screenshot (if available)
+└── README.md # Project documentation and insights 
+
 
 ---
 
 ## 📌 Projects
 
-| Project Name    | Description                                                                           | Tools        |
-| --------------- | ------------------------------------------------------------------------------------- | ------------ |
-| Pizza_sales     | Sales analysis using a public dataset to uncover revenue trends and customer insights | SQL, Tableau |
+| Project Name     | Description                                                                 | Tools        |
+|------------------|-----------------------------------------------------------------------------|--------------|
+| 🍕 Pizza Sales   | End-to-end SQL analysis of restaurant sales, KPIs, and business insights    | SQL, Tableau |
+
+---
+
+## 🍕 Featured Project: Pizza Sales Analysis
+
+This project is an end-to-end SQL analysis of a pizza sales dataset using Google BigQuery.
+
+### Key Focus Areas:
+- Revenue and sales performance analysis  
+- Product and category performance  
+- Customer ordering behaviour  
+- Time-based demand patterns  
+- Identification of top and underperforming products  
+
+### Business Value:
+- Identifies high-performing products driving revenue  
+- Highlights peak demand hours for operational planning  
+- Supports menu optimisation decisions  
+- Provides insight into customer purchasing behaviour  
 
 ---
 
 ## 📈 Key Skills Demonstrated
 
-* Writing efficient SQL queries
-* Data cleaning and transformation
-* Data analysis and insight generation
-* Translating business questions into data queries
-* Data visualization and storytelling
+- Writing efficient SQL queries  
+- Data cleaning and transformation  
+- KPI development and business metrics  
+- Data analysis and insight generation  
+- Translating business questions into SQL logic  
+- Data storytelling  
 
 ---
 
 ## 🌐 Tableau Dashboards
 
-Dashboards will be published and shared via Tableau Public.
+Dashboards are published via Tableau Public (where applicable) to support visual exploration of insights.
 
 ---
 
 ## 🚀 Goals
 
-This portfolio is part of my journey to becoming a Data Analyst. I am continuously improving my skills by working on increasingly complex datasets and real-world business problems.
+This portfolio represents my journey toward becoming a Data Analyst. I continuously build projects to strengthen both technical and business problem-solving skills.
 
 ---
 

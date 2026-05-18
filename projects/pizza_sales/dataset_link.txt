@@ -1,0 +1,5 @@
+Dataset Source:
+https://www.kaggle.com/datasets/mysarahmadbhat/pizza-place-sales
+
+Description:
+This dataset contains pizza sales transactions including orders, order details, pizza types, and pricing information. It is used for SQL-based analysis in BigQuery.

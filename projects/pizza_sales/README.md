@@ -190,6 +190,18 @@ An interactive Tableau dashboard complements this analysis, visualizing:
 
 ---
 
+## 📊 Dashboard Preview
+
+![Pizza Sales Dashboard](Tableau_Dashboard(Pizza_Sales).png)
+
+## 🌐 Live Dashboard
+[🔗 View Live on Tableau Public](https://public.tableau.com/app/profile/portia.ntsele/viz/PizzaSalesAnalysisDashboard2015/PizzaSalesAnalysisDashboard2015)
+
+## 📄 SQL Script
+[View Full SQL Script](pizza_sales_analysis.sql)
+
+---
+
 ## 🚀 Summary
 
 This project demonstrates end-to-end SQL analytics capability, combining technical SQL skills with business thinking to deliver actionable insights.

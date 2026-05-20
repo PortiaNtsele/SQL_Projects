@@ -45,10 +45,9 @@ project_name/ │
 
 ## 📌 Projects
 
-| Project Name     | Description                                                                 | Tools        |
-|------------------|-----------------------------------------------------------------------------|--------------|
-| ### 🍕 [Pizza Sales Sales Analysis](https://github.com/PortiaNtsele/SQL_Projects/tree/main/projects)
-   | End-to-end SQL analysis of restaurant sales, KPIs, and business insights    | SQL, Tableau |
+| Project Name 🍕 [Pizza Sales Sales Analysis](https://github.com/PortiaNtsele/SQL_Projects/tree/main/projects)
+| Description | End-to-end SQL analysis of restaurant sales, KPIs, and business insights 
+| Tools  | SQL, Tableau 
 
 ---
 

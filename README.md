@@ -57,7 +57,7 @@ This project is an end-to-end SQL analysis of a pizza sales dataset using Google
 
 ## 📊 Dashboard Preview
 
-![Pizza Sales Dashboard](pizza_dashboard.png)
+![Pizza Sales Dashboard](projects/pizza_sales/Tableau_Dashboard(Pizza_Sales).png)
 
 ## 🌐 Live Dashboard
 [🔗 View Live on Tableau Public](https://public.tableau.com/app/profile/portia.ntsele/viz/PizzaSalesAnalysisDashboard2015/PizzaSalesAnalysisDashboard2015)

@@ -55,6 +55,13 @@ project_name/ │
 
 This project is an end-to-end SQL analysis of a pizza sales dataset using Google BigQuery.
 
+## 📊 Dashboard Preview
+
+![Pizza Sales Dashboard](pizza_dashboard.png)
+
+## 🌐 Live Dashboard
+[🔗 View Live on Tableau Public](https://public.tableau.com/app/profile/portia.ntsele/viz/PizzaSalesAnalysisDashboard2015/PizzaSalesAnalysisDashboard2015)
+
 ### Key Focus Areas:
 - Revenue and sales performance analysis  
 - Product and category performance  

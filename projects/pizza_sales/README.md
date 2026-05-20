@@ -198,7 +198,6 @@ An interactive Tableau dashboard complements this analysis, visualizing:
 [🔗 View Live on Tableau Public](https://public.tableau.com/app/profile/portia.ntsele/viz/PizzaSalesAnalysisDashboard2015/PizzaSalesAnalysisDashboard2015)
 
 ## 📄 SQL Script
-## 📄 SQL Script
 [View Full SQL Script](queries.sql)
 ---
 

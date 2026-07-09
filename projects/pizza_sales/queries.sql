@@ -69,7 +69,7 @@ JOIN `project-8a19fb9c-cff3-4d83-820.pizza_sales.pizzas` p
 -- Top 10 pizzas by quantity sold
 SELECT
   pizza_id,
-  SUM(quantity) AS total_sold
+  SUM(quantity) AS top_10_sold_pizzas
 FROM `project-8a19fb9c-cff3-4d83-820.pizza_sales.order_details`
 GROUP BY pizza_id
 ORDER BY total_sold DESC
@@ -79,7 +79,7 @@ LIMIT 10;
 -- Top 10 pizzas by revenue
 SELECT
   od.pizza_id,
-  ROUND(SUM(od.quantity * p.price), 2) AS total_revenue
+  ROUND(SUM(od.quantity * p.price), 2) AS top_10_by_rev
 FROM `project-8a19fb9c-cff3-4d83-820.pizza_sales.order_details` od
 JOIN `project-8a19fb9c-cff3-4d83-820.pizza_sales.pizzas` p
   ON od.pizza_id = p.pizza_id
